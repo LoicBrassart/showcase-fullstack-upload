@@ -20,7 +20,7 @@ Card.propTypes = {
   firstName: PropTypes.string,
 };
 Card.defaultProps = {
-  avatar: '',
+  avatar: { preview: '/assets/img/default-avatar.png' },
   background: { preview: '/assets/img/default-background.jpg' },
   lastName: 'N/A',
   firstName: 'N/A',
