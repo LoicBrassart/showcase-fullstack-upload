@@ -53,3 +53,5 @@ Just contains a SQL dump for the tables needed
 ## Todo & ideas
 
 - Add a gallery for previously recorded characters
+- Add a toast notification to know whether the upload worked
+- Refresh the gallery everytime an upload succeded
